@@ -28,5 +28,4 @@ def connect_db():
         print("Failed to connect to database:", err)
         return None
         
-# db=connect_db()
-# cursor = db.cursor() 
+
